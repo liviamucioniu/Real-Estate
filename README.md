@@ -1,3 +1,5 @@
+Powered by React, the platform features an intuitive interface and captivating visuals, ensuring a seamless journey as you search for your ideal home or investment property.
+
 Technologies Used:
 
 -React -HTML -CSS -JavaScript
